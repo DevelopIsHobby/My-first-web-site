@@ -8,10 +8,6 @@
 BULMA 프레임워크와 자바스크립트를 이용한 미니프로젝트
 </p>
 
-<p align="center">
-GIF Images
-</p>
-
 <br>
 
 ## 기술 스택
