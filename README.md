@@ -1,10 +1,6 @@
 # 점수 관리자 만들기(with BULMA)
 
-<p align="center">
-  <br>
-  <img src="./images/common/logo-sample.jpeg">
-  <br>
-</p>
+![image](https://github.com/DevelopIsHobby/My-first-web-site/assets/107912101/e20c75ab-bc8d-4cff-8534-f5e5c9f8d291)
 
 ## 프로젝트 소개
 
@@ -44,14 +40,3 @@ GIF Images
   2. BULMA 프레임워크를 이용해 CSS를 간단하게 다룰 수 있었다.
 </p>
 
-<br>
-
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[HTML]: /images/stack/html.svg
-[BULMA]: /images/stack/bulma.svg
