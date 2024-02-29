@@ -21,13 +21,13 @@ GIF Images
 
 <br>
 
-### 구현 기능
+## 구현 기능
 
-# +1 Player One, +1 Player Two 버튼을 클릭하면 점수가 1씩 증가하기
+### +1 Player One, +1 Player Two 버튼을 클릭하면 점수가 1씩 증가하기
 
-# Winning Score에 도달하면 점수판의 색 바꾸기
+### Winning Score에 도달하면 점수판의 색 바꾸기
 
-# Reset 버튼을 클릭하면 점수판의 점수가 0으로 바뀌고, 원래의 색으로 돌아오기
+### Reset 버튼을 클릭하면 점수판의 점수가 0으로 바뀌고, 원래의 색으로 돌아오기
 
 
 <br>
